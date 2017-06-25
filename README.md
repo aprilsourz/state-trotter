@@ -8,8 +8,12 @@
 ## About State Trotter
 State Trotter is a bucket list app divded by state.
 
+Third project for the Web Development Immersive at General Assembly.
+I built the app over a 5-day sprint with a four person team. The server may take 15 to 30 seconds to respond when you first create an account. The back end is hosted on Heroku, which puts the API to sleep after 30 minutes of inactivity.
+Fore more information [click here.](https://devcenter.heroku.com/articles/free-dyno-hours)
+
 ## How to Use the App
-1. Select a state where you want to add a goal to achieve. Add a bucket-list item (a goal) for that state by creating a goal you want to achieve and the date you want to achieve it by. Check off goals you've completed. Create more goals and see the items you have and have not completed.
+Select a state where you want to add a goal to achieve. Add a bucket-list item (a goal) for that state by creating a goal you want to achieve and the date you want to achieve it by. Check off goals you've completed. Create more goals and see the items you have and have not completed.
 
 ## Technologies Used
 - Front-end: HTML, CSS, SCSS, JavaScript, jQuery, AJAX, Bootstrap, Handlebars.js
@@ -80,5 +84,5 @@ Certain number of states
 Certain number of items
 All states in a certain region
 
-## Unsolved Problems:
+## Future Iterations
  Revisiting STRETCH goals for user stories.
