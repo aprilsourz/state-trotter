@@ -84,5 +84,5 @@ Certain number of states
 Certain number of items
 All states in a certain region
 
-## Unsolved Problems:
+## Future Iterations
  Revisiting STRETCH goals for user stories.
